@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mth666
 - 👀 I’m interested in cross platforms developments
-- 🌱 I’m currently learning flutter
-- 💞️ 
-- 📫 
+- 🌱 i love Arts
+- 💞️ Flutter is my favorite :)
+- 📫 i made flutter apps 
 
 <!---
 mth666/mth666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
