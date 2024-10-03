@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mth666
+- 👋 Hi, I’m @mth
 - 👀 I’m interested in cross platforms developments
 - 🌱 i love Arts
 - 💞️ Flutter is my favorite :)
